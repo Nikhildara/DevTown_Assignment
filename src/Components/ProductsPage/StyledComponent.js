@@ -66,7 +66,7 @@ export const FilterAndProductCon = Styled.div`
 export const ProductsCon = Styled.div`
     padding:10px;
     @media (min-width:768px){
-      
+      width:77vw;
     }
 `;
 
